@@ -6,13 +6,13 @@ HolaMundo("print")
 
 ![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
-## About Me :
+## Acerca de mi :
 
-🏢 I am currently a final year student of software engineering
-🎓 Software Engineering Studies at sena
+🏢 Actualmente soy estudiante de último año de ingeniería de software.
+🎓 Estudios de Ingeniería de Software en sena
 
-🏡 'I live in Barranquilla/Colombia
-⚡ Fun facts: 🍕 🏉 🏏 🎥 🚞
+🏡 'Vivo en Barranquilla/Colombia
+⚡ Datos curiosos: 🍕 🏉 🏏 🎥 🚞
 
 
 
@@ -27,7 +27,7 @@ HolaMundo("print")
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+##soy bueno en 🧑‍💻:
 
 <br>
 
